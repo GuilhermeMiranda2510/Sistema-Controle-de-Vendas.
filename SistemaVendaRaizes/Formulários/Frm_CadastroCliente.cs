@@ -41,7 +41,7 @@ namespace SistemaVendaRaizes.Formulários
                     }
                 }
 
-                DialogResult result = MessageBox.Show("Deseja realmente cadastrar o cliente?",
+                DialogResult result = MessageBox.Show("Deseja realmente cadastrar este cliente?",
                   "CONFIRMAÇÃO", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (result == DialogResult.Yes)
                 {
