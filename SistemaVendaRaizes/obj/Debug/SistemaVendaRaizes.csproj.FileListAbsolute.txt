@@ -1,0 +1,14 @@
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\bin\Debug\SistemaVendaRaizes.exe.config
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\bin\Debug\SistemaVendaRaizes.exe
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\bin\Debug\SistemaVendaRaizes.pdb
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Formulários.Frm_CadastraProduto.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Formulários.Frm_CadastroCliente.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Formulários.Frm_CadastroPedidoFive.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Frm_Menu.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Formulários.Frm_NovoPedido.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Formulários.Frm_RelatorioVenda.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.Properties.Resources.resources
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.csproj.GenerateResource.cache
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.csproj.CoreCompileInputs.cache
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.exe
+C:\Users\Gui\source\repos\SistemaVendaRaizes\SistemaVendaRaizes\obj\Debug\SistemaVendaRaizes.pdb
